@@ -18,18 +18,18 @@ The project demonstrates how data analytics can be used to transform raw transac
 
 ## Key Features
 
--Data Cleaning and Preprocessing
--Market Basket Analysis
--Apriori Algorithm Implementation
--Association Rule Mining
--Product Recommendation System
--Frequent Itemset Generation
--Support, Confidence and Lift Analysis
--Network Graph Visualization
--Interactive Rule Filtering Dashboard
--Search and Pagination Functionality
--Customer Purchase Pattern Analysis
--Retail Business Intelligence
+- Data Cleaning and Preprocessing
+- Market Basket Analysis
+- Apriori Algorithm Implementation
+- Association Rule Mining
+- Product Recommendation System
+- Frequent Itemset Generation
+- Support, Confidence and Lift Analysis
+- Network Graph Visualization
+- Interactive Rule Filtering Dashboard
+- Search and Pagination Functionality
+- Customer Purchase Pattern Analysis
+- Retail Business Intelligence
 
 ## Technologies Used
 
